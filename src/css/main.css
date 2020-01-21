@@ -1,7 +1,16 @@
+
 .header {
-    padding: 50px;
+    padding: 50px 100px;
     text-align: center;
     background: #999;
     font-size: 32px;
+}
+
+.main {
+    background: green;
+    padding: 100px 100px;
+    text-align: center;
+    font-size: 38px;
+    color: aliceblue;
     font-family: sans-serif;
 }
