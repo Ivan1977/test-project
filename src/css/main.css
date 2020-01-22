@@ -14,3 +14,10 @@
     color: aliceblue;
     font-family: sans-serif;
 }
+
+.footer{
+    background: blue;
+    padding: 50px 100px;
+    text-align: center;
+    font-size: 32px;
+}
